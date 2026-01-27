@@ -1,1 +1,1 @@
-# Al$_8$Cu$_4$X Filter
+# $\mathrm{Al}_8\mathrm{Cu}_4\mathrm{X}$ filter
